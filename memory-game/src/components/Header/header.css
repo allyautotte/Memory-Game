@@ -1,0 +1,22 @@
+.header {
+  background: #058FEB;
+  height: 250px;
+}
+
+.header > h1 {
+  margin-top: 15px;
+  padding-top: 55px;
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  letter-spacing: 2px;
+  text-shadow: 2px 1px black;
+}
+
+.header h2 {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  letter-spacing: 2px;
+  text-shadow: 1px 1px black;
+}

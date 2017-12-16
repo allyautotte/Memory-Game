@@ -1,0 +1,37 @@
+.card {
+  background: #fff;
+  border-radius: 5px;
+  height: 150px;
+  margin: 30px;
+  margin-top: 20px;
+  position: relative;
+  width: 225px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: center;
+}
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
+  text-align: center;
+  background: #80ccff;
+}
+.card > .img-container > img {
+  width: 60%
+}
+
+.card > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+}
+
+.card > .content > ul {
+  list-style-type: none;
+}
+
+.card > .content > ul > li {
+  margin-top: 18px;
+}
+
+
